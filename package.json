@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@arco-design/web-react": "^2.46.1",
+    "babel-plugin-import": "^1.13.6",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
